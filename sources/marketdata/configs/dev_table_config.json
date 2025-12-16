@@ -1,0 +1,27 @@
+{
+    "stocks_quotes": {
+        "symbols": "AAPL,MSFT,GOOGL,AMZN,META"
+    },
+    "stocks_candles": {
+        "symbols": "AAPL,MSFT",
+        "resolution": "D",
+        "from_date": "2024-01-01"
+    },
+    "stocks_earnings": {
+        "symbols": "AAPL,MSFT,GOOGL",
+        "from_date": "2024-01-01"
+    },
+    "options_chain": {
+        "symbol": "AAPL"
+    },
+    "indices_quotes": {
+        "symbols": "SPX,NDX,DJI"
+    },
+    "indices_candles": {
+        "symbols": "SPX",
+        "resolution": "D",
+        "from_date": "2024-01-01"
+    },
+    "markets_status": {}
+}
+
